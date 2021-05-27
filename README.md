@@ -10,3 +10,7 @@ This is my first github repository.
 * Web marketing site
 * Astro site
 * More to come
+
+    if(isAwesome()) {
+        return "Awesome.";
+    }
