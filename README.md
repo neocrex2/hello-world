@@ -11,6 +11,9 @@ This is my first github repository.
 * Astro site
 * More to come
 
-    if(isAwesome()) {
-        return "Awesome.";
-    }
+```
+@import
+  'abstracts/variables',
+  'abstracts/functions',
+  'abstracts/mixins';
+```
