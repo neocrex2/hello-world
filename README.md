@@ -9,4 +9,6 @@ This is my first github repository.
 ### New Projects
 * Web marketing site
 * Astro site
+* Resume
 * More to come
+
